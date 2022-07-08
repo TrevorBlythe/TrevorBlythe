@@ -1,5 +1,5 @@
 
-🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸
+# 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸  
 Hello, im Trevor Blythe a hobbiest proggrammer (for now) and college student working on a computer science degree
 Rip terry davis, death to windows
 
