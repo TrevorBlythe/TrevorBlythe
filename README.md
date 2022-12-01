@@ -7,7 +7,6 @@ Hello, im Trevor Blythe a hobbiest proggrammer (for now) and college student wor
 1. Machine learning (main)
 2. Linux administration. 
 3. 3D printing
-4. Horse bicycle invention ( good idea! )
 
 ## Im currently working on
 
