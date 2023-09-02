@@ -10,7 +10,7 @@ Hello, im Trevor Blythe a hobbiest proggrammer (for now) and college student wor
 
 ## Im currently working on
 
-My project MentisJS which I hope becomes big one day because it will fufill me. Check out my library that makes AI's in javascript
+A computer science degree at A-State
 
 ## Wanna hire me or give me an internship?
 
