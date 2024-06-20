@@ -11,6 +11,7 @@ Hello, im Trevor Blythe a hobbiest proggrammer (for now) and college student wor
 ## Im currently working on
 
 A computer science degree at A-State
+https://github.com/TrevorBlythe/MentisJS
 
 ## Wanna hire me or give me an internship?
 
