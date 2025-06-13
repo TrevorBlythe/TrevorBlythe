@@ -2,12 +2,6 @@
 # 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸  
 Hello, im Trevor Blythe a hobbiest proggrammer (for now) and college student working on a computer science degree
 
-## My intrests include 
-
-1. Machine learning (main)
-2. Linux administration. 
-3. 3D printing
-
 ## Im currently working on
 
 A computer science degree at A-State
