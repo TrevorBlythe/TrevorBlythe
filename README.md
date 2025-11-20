@@ -2,6 +2,8 @@
 # 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸  
 Hello, im Trevor Blythe a hobbiest proggrammer (for now) and college student working on a computer science degree
 
+I can type a prompt into chatGPT
+
 ## Im currently working on
 
 A computer science degree at A-State
