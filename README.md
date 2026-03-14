@@ -1,6 +1,6 @@
 
 # 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸  
-im Trevor Blythe, a programmer and college student working on a computer science degree
+College student working on a computer science degree
 
 I can type a prompt into chatGPT ✅✅✅
 
@@ -19,6 +19,9 @@ https://www.meta.com/experiences/scary-descent/6030943683696648/
 ##### Fun browser game
 Made this in highschool cuz my PC coudnt run noita.
 https://trevorblythe.github.io/FixedFBLASubmission/index.html
+
+##### site
+https://trevorblythe.github.io/
 
 ##### Cool machine learning tools again (in rust this time)
 Still easier to use then pytorch ngl
