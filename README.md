@@ -33,4 +33,4 @@ Various random scripts/things over my life.
 A 3D model of a microcontroller case generator.
 
 ##### contact me 
-trevorblythe82@gmail.com or phone me @ REMOVED. 
+trevorblythe82@gmail.com
